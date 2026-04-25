@@ -1,0 +1,6 @@
+[submodule "cloud-resume-challenge-resume"]
+	path = cloud-resume-challenge-resume
+	url = https://github.com/jamesadewara/cloud-resume-challenge-resume.git
+[submodule "cloud-resume-challenge-iac"]
+	path = cloud-resume-challenge-iac
+	url = https://github.com/jamesadewara/cloud-resume-challenge-iac.git
