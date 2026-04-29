@@ -1,13 +1,21 @@
 # ☁️ Cloud Resume Challenge - James Adewara
 
+![Project Architecture](assets/project-diagram.png)
+
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazon-aws)](https://aws.amazon.com/)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+</div>
+
+---
+
 A production-grade, serverless resume implementation built with modern cloud-native principles. This project showcases a high-performance frontend, a scalable Python API, and fully automated **Infrastructure-as-Code (IaC)** deployment using GitHub Actions and AWS OIDC.
 
 ## 📐 Architecture
+
+<p align="center">
 
 ```mermaid
 graph TD
@@ -32,6 +40,8 @@ graph TD
         GH -- OIDC Deploy --> Lambda
     end
 ```
+
+</p>
 
 ## 🌟 Key Features
 
