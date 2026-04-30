@@ -4,3 +4,12 @@
 [submodule "cloud-resume-challenge-iac"]
 	path = cloud-resume-challenge-iac
 	url = https://github.com/jamesadewara/cloud-resume-challenge-iac.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = https://github.com/jamesadewara/cloud-resume-challenge-iac.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/jamesadewara/cloud-resume-challenge-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/jamesadewara/cloud-resume-challenge-resume.git
